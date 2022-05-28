@@ -1,5 +1,5 @@
 # brianhhuang.github.io
-Brian's personal website
+Brian's personal blog and website!
 
 ## Brian Huang
 
